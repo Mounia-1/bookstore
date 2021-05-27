@@ -13,3 +13,7 @@ L'utilisateur peut également laisser des commentaires sur chaque produit s'il l
 
 
 ![Diagramme de classe](https://user-images.githubusercontent.com/76956076/119904463-57fedf80-bf42-11eb-946c-826ecc6815e8.PNG)
+
+
+![Use case ](https://user-images.githubusercontent.com/76956076/119905166-9517a180-bf43-11eb-8481-0d6671d6ce6e.png)
+
